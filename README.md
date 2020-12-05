@@ -49,8 +49,34 @@ Three additional innovations include:
 - The concept of a “proof of stake” which would streamline the existing “proof of work” model; moving away from vast data centres and large amounts of computing power, to be replaced by complex financial instruments 
 - And finally, simplifying the transaction validation process (known as ‘blockchain scaling’) that eliminates the need to have all computers in the network processing transactions, but rather focusing on the actual number of computers necessary to process transactions. This would be a a time saver as the existing process is slow.
 
+**Diem's Competitors** 
 
-- testlist
-    - test sublist
-    - test **bold**
-    - test *italics*
+![alt text](https://public.bnbstatic.com/static/images/common/ogImage.jpg)
+
+In anticipation of Diem’s launch in January 2021, Diem already faces a lot of competition. One major competitor is Binance - the world’s largest cryptocurrency exchange, that was founded in 2017. Binance is a direct competitor of Diem as it has their own coin offering, the BNB (Binance Coin), a stablecoin that is pegged to the British Pound, and its own blockchain, Binance Chain(Kharif, 2020). 
+
+
+A second competitor is Metallicus Inc., with its product called Metal Pay. Metal Pay is a digital wallet that with its own coin offering, the MTL coin, and also operates on a blockchain (DeCambre 2019). 
+
+![alt text](https://www.ccn.com/wp-content/uploads/2019/08/Erik-Finman-unveils-bitcoin-Libra-Killer-Metal-Pay.jpg)
+
+Despite its competition, the advantage that Diem offers is governance of money, backed by reputable large organizations, central banks and academic institutions, which increases trust in the company, unless you are of course ‘anti-government’. 
+
+## Results
+
+**Diem's Projected Business Impact**
+
+   The business impacts of Diem remain to be seen. Leading up to its launch, there have been numerous discussions held with various key stakeholders including regulators, central banks, and elected officials(diem.com, 2020). Some controversial discussion points that may impact how widely it is adopted are surrounding how the Diem coin may be trying to compete with fiat currency, the role the central banks play in the system, the overall security of its system on a blockchain, and whether or not its product and service offerings are fully compliant with regulations. However, as a Facebook-affiliated project and given that there are currently 2.7 billion active users on Facebook according to statista.com, the potential network reach of Diem could be significant and would dramatically change the payments industry on a truly global scale (Peoples, 2019). This, combined with opening up the financial system to the 1.7 billion who currently don’t have access will fundamentally change how the world uses money. 
+
+   According to a report backed by the World Bank, “broadening access to financial services through digital means can unlock productivity and investment, reduce poverty, empower women, and help build stronger institutions with less corruption—all while providing a profitable, sustainable business opportunity for financial service providers. The benefits for individuals, businesses, and governments can transform the economic prospects of emerging economies” (Manyika et al.,2016).
+
+**Measuring Blockchain Success**
+
+Existing companies that are a part of the blockchain and cryptocurrency domain measure success by looking at the following:
+
+- cost per transaction
+- time per transaction 
+- value of cryptocurrency asset
+- number of active users 
+
+
