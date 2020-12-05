@@ -1,6 +1,7 @@
 # FinTech Case Study: Diem Payment System (*formerly known as Libra*) 
-## Overview of Diem 
 ![alt text](https://media.itpro.co.uk//image/private/s--uxEpf0sS--/t_primary-image-desktop@2/v1571757649/itpro/2019/10/facebook_libra_cryptocurrency_shutterstock.jpg)
+
+## Overview of Diem 
 
    Diem is a project that was proposed by Facebook Inc. in 2018. It is intended to use blockchain technology to create a Digital payment system that is accessible and affordable for everyone. It is currently still under development and is reportedly set to launch to the public in January 2021 (Pymnts, 2019). The first media reports related to the launch of Diem were announced in June 2019 (Constine, 2019).
 
