@@ -79,4 +79,51 @@ Existing companies that are a part of the blockchain and cryptocurrency domain m
 - value of cryptocurrency asset
 - number of active users 
 
+![alt text](Screen Shot 2020-12-04 at 6.39.23 PM.png)
 
+As blockchain and cryptocurrency in the payments space is intended to set up financial transactions quickly and efficiently, it is is important to keep costs and time per transactions low (Spilka, 2020). In addition, the growing adoption of blockchain and cryptocurrencies is evident in the increasing value of various cryptocurrencies and the number of active users who have purchased coin. The top two cryptocurrencies by market capitalization today are Bitcoin and Ethereum. It will be interesting to see how the Diem Coin fares against these two (CoinMarketCap, 2020). 
+
+
+## Recommendations
+
+   Diem differs from many other cryptocurrencies in one major way;  the network it's built on will be run only by members of the Diem Association, unlike some other "permissionless" blockchain networks that anyone can join. However, this means that Diem is not an entirely decentralized currency; it's simply controlled by the association rather than a government. However, this model is what will allow the network to scale faster and for transactions to be processed and cleared more quickly (Duffy, 2019). 
+
+   My recommendation for Diem to being a truly revolutionary digital payment system is to become fully decentralized. This is a concept that is building momentum and is referred to as DeFi or ‘decentralized finance’. DeFi is more than just a digital payment system using blockchain. DeFi completely disrupts financial intermediaries and removes the reliance we have on central banks and governments, essentially a reliance on a single, central source. This is important because ‘’centralized systems and human gatekeepers limits the speed and sophistication of transactions while offering users less direct control over their money’’ (Hertig, 2020). 
+
+   For more complex financial applications like loans, insurance, and derivatives, DeFi cuts out the middlemen from these types of transactions. As I mentioned earlier when discussing some of the key innovations in blockchain in the last decade, the use of smart contract technology can enable the creation of these decentralized applications. Individuals are want to feel like they have more control over their money, myself included, would be more open to signing up for a Diem with this type of product or services offering and this in turn, would be beneficial for Diem to increase their adoption rate and number of active users. All of this is dependent on how scalable DeFi truly becomes as it is still very much in an experimental phase (Hertig, 2020). 
+   
+## References 
+
+Ali et al. (2018). Applications of Blockchain Technology beyond Cryptocurrency. Retrieved from: https://arxiv.org/abs/1801.03528 
+
+CoinMarketCap. (2020). Today’s Cryptocurrency Prices by Market Cap. Retrieved from: https://coinmarketcap.com/. 
+
+Constine. (2019). Facebook announces Libra cryptocurrency: All you need to know. Retrieved from: https://techcrunch.com/2019/06/18/facebook-libra/
+
+DeCambre. (2019). Facebook already faces the ‘first real competitor’ to crypto Libra. Retrieved from: https://www.marketwatch.com/story/facebook-already-faces-the-first-real-competitor-to-crypto-libra-2019-08-20
+
+Demirgüç-Kunt et al. (2017). Measuring Financial Inclusion and the Fintech Revolution. Retrieved form: https://globalfindex.worldbank.org/sites/globalfindex/files/2018-04/2017%20Findex%20full%20report_0.pdf
+
+Diem White Paper. (2020). Welcome to the official White Paper. Retrieved from: https://www.diem.com/en-us/white-paper/. 
+
+Duffy. (2019). Meet the Facebook executive who wants you to trust him with your money. Retrieved from: https://www.cnn.com/2019/11/15/tech/facebook-libra-david-marcus-risk-takers/index.html 
+
+Gupta. (2017). A Brief History of Blockchain. Retrieved from: https://hbr.org/2017/02/a-brief-history-of-blockchain.
+
+Hertig. (2020). What is DeFi? Retrieved from: https://www.coindesk.com/what-is-defi
+
+Kastrenakes. (2020). Libra cryptocurrency project changes name to Diem to distance itself from Facebook. Retrieved from: https://www.theverge.com/2020/12/1/21755078/libra-diem-name-change-cryptocurrency-facebook
+
+Kharif. (2020). Facebook-backed Libra association changes its name to Diem. Retrieved from: https://fortune.com/2020/12/01/facebook-libra-association-name-diem/
+
+Libra Association. (2020). The Libra Association appoints Stuart Levey as CEO. Retrieved from: https://www.diem.com/en-us/updates/ceo-announcement/
+
+Manyika et al. (2016). Digital Finance for All: Powering Inclusive Growth in Emerging Economies. Retrieved from: https://www.mckinsey.com/~/media/mckinsey/featured%20insights/Employment%20and%20Growth/How%20digital%20finance%20could%20boost%20growth%20in%20emerging%20economies/MGI-Digital-Finance-For-All-Executive-summary-September-2016.ashx
+
+Peoples. (2019). The 5 Implications of Facebook’s Libra that Business Leaders Need to Know. Retrieved from: https://www.linkedin.com/pulse/5-implications-facebooks-libra-business-leaders-need-know-peoples/
+
+Pymts. (2019.) A Brief History of Libra. Retrieved from: https://www.pymnts.com/cryptocurrency/2019/a-brief-history-of-facebook-libra/
+
+Sandner. (2019). Facebook Coin: What would be the market capitalization of Libra? Would Libra be rated higher than Bitcoin?. Retrieved from: https://philippsandner.medium.com/facebook-coin-what-would-be-the-market-capitalization-of-libra-125f58645729 
+
+Spilka. (2020). Blockchain and the unbanked: Changes coming to global finance. Retrieved from: https://www.ibm.com/blogs/blockchain/2020/03/blockchain-and-the-unbanked-changes-coming-to-global-finance/
