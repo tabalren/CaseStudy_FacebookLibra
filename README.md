@@ -79,7 +79,7 @@ Existing companies that are a part of the blockchain and cryptocurrency domain m
 - value of cryptocurrency asset
 - number of active users 
 
-![alt text](Screen Shot 2020-12-04 at 6.39.23 PM.png)
+![alt text](https://cdn.filestackcontent.com/bZVAWi3GSXuir6Bl3V3J)
 
 As blockchain and cryptocurrency in the payments space is intended to set up financial transactions quickly and efficiently, it is is important to keep costs and time per transactions low (Spilka, 2020). In addition, the growing adoption of blockchain and cryptocurrencies is evident in the increasing value of various cryptocurrencies and the number of active users who have purchased coin. The top two cryptocurrencies by market capitalization today are Bitcoin and Ethereum. It will be interesting to see how the Diem Coin fares against these two (CoinMarketCap, 2020). 
 
@@ -95,6 +95,8 @@ As blockchain and cryptocurrency in the payments space is intended to set up fin
 ## References 
 
 Ali et al. (2018). Applications of Blockchain Technology beyond Cryptocurrency. Retrieved from: https://arxiv.org/abs/1801.03528 
+
+BoogerWooger (2019). The Key Metrics to Measure Blockchain Network Performance. Retrieved from: https://hackernoon.com/how-to-measure-blockchain-network-performance-key-metrics-en1234u4
 
 CoinMarketCap. (2020). Today’s Cryptocurrency Prices by Market Cap. Retrieved from: https://coinmarketcap.com/. 
 
