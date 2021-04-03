@@ -1,4 +1,5 @@
-# FinTech Case Study: Diem Payment System (*formerly known as Libra*) 
+# FinTech Case Study: Diem Payment System 
+### (*formerly known as Libra*) 
 ![alt text](https://media.itpro.co.uk//image/private/s--uxEpf0sS--/t_primary-image-desktop@2/v1571757649/itpro/2019/10/facebook_libra_cryptocurrency_shutterstock.jpg)
 
 ## Overview of Diem 
